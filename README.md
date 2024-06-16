@@ -1,25 +1,31 @@
-The conecpts covered in this list of projects and assignments are as follows:
+# Concepts Covered
 
-* Machine Learning Foundations:
- -Introduction to Machine Learning
- -Supervised Learning (Regression, Classification)
- -Unsupervised Learning (Clustering, Dimensionality Reduction)
- -Ensemble Techniques
+The concepts covered in this list of projects and assignments are as follows:
 
-* Advanced Machine Learning
- -Time Series Analysis
- -Recommendation Systems
- -Natural Language Processing (NLP)
- -Computer Vision
+## Machine Learning Foundations
+- **Introduction to Machine Learning**
+- **Supervised Learning**
+  - Regression
+  - Classification
+- **Unsupervised Learning**
+  - Clustering
+  - Dimensionality Reduction
+- **Ensemble Techniques**
 
-* Deep Learning:
- -Neural Networks
- -Convolutional Neural Networks (CNN)
- -Recurrent Neural Networks (RNN)
- -Generative Adversarial Networks (GAN)
+## Advanced Machine Learning
+- **Time Series Analysis**
+- **Recommendation Systems**
+- **Natural Language Processing (NLP)**
+- **Computer Vision**
 
-* Programming Tools and Libraries:
- -Python Programming
- -TensorFlow and Keras
- -Scikit-Learn
- -PyTorch
+## Deep Learning
+- **Neural Networks**
+- **Convolutional Neural Networks (CNN)**
+- **Recurrent Neural Networks (RNN)**
+- **Generative Adversarial Networks (GAN)**
+
+## Programming Tools and Libraries
+- **Python Programming**
+- **TensorFlow and Keras**
+- **Scikit-Learn**
+- **PyTorch**
